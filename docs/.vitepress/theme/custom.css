@@ -1,0 +1,19 @@
+/* .vitepress/theme/custom.css */
+:root {
+    --vp-c-brand: #2f54eb;
+    --vp-c-brand-light: #2f54eb;
+    --vp-button-brand-hover-bg: #0a30ca;
+    --vp-button-brand-hover-border: #0a30ca;
+    --vp-button-brand-border: #0a30ca;
+    --vp-button-brand-active-border: #4365ee;
+    --vp-button-brand-active-bg: #4365ee;
+  }
+
+  .VPImage.image-src {
+    max-width: 480px;
+    border-radius: 6px;
+  }
+
+  .VPHero .text {
+    font-size: 50px;
+  }
