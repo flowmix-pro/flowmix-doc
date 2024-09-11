@@ -1,0 +1,17 @@
+{
+  "name": "flowmix",
+  "version": "1.0.0",
+  "description": "flowmix开发使用文档",
+  "main": "index.js",
+  "repository": "git@e.coding.net:xujiang1995/dooring-saas/doc.git",
+  "author": "xujiang <xujiang156@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.0.0-beta.2"
+  },
+  "scripts": {
+    "start": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs"
+  }
+}
